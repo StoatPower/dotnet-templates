@@ -1,0 +1,12 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Matt D. Caldwell",
+    "classifications": [ "Common", "Class Library", "Repository", "Async" ],
+    "identity": "StoatPowers.GenRepo",
+    "name": "Template for GenericRepository Project",
+    "shortName": "genrepo",
+    "tags": {
+      "language": "C#",
+      "type": "project"
+    }
+  }
