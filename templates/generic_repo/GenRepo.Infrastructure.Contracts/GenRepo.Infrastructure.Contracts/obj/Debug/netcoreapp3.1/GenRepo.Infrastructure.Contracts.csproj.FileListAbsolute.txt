@@ -1,0 +1,9 @@
+C:\Users\mattc\source\repos\GenRepo.Infrastructure.Contracts\GenRepo.Infrastructure.Contracts\bin\Debug\netcoreapp3.1\GenRepo.Infrastructure.Contracts.deps.json
+C:\Users\mattc\source\repos\GenRepo.Infrastructure.Contracts\GenRepo.Infrastructure.Contracts\bin\Debug\netcoreapp3.1\GenRepo.Infrastructure.Contracts.dll
+C:\Users\mattc\source\repos\GenRepo.Infrastructure.Contracts\GenRepo.Infrastructure.Contracts\bin\Debug\netcoreapp3.1\GenRepo.Infrastructure.Contracts.pdb
+C:\Users\mattc\source\repos\GenRepo.Infrastructure.Contracts\GenRepo.Infrastructure.Contracts\obj\Debug\netcoreapp3.1\GenRepo.Infrastructure.Contracts.csprojAssemblyReference.cache
+C:\Users\mattc\source\repos\GenRepo.Infrastructure.Contracts\GenRepo.Infrastructure.Contracts\obj\Debug\netcoreapp3.1\GenRepo.Infrastructure.Contracts.AssemblyInfoInputs.cache
+C:\Users\mattc\source\repos\GenRepo.Infrastructure.Contracts\GenRepo.Infrastructure.Contracts\obj\Debug\netcoreapp3.1\GenRepo.Infrastructure.Contracts.AssemblyInfo.cs
+C:\Users\mattc\source\repos\GenRepo.Infrastructure.Contracts\GenRepo.Infrastructure.Contracts\obj\Debug\netcoreapp3.1\GenRepo.Infrastructure.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\mattc\source\repos\GenRepo.Infrastructure.Contracts\GenRepo.Infrastructure.Contracts\obj\Debug\netcoreapp3.1\GenRepo.Infrastructure.Contracts.dll
+C:\Users\mattc\source\repos\GenRepo.Infrastructure.Contracts\GenRepo.Infrastructure.Contracts\obj\Debug\netcoreapp3.1\GenRepo.Infrastructure.Contracts.pdb

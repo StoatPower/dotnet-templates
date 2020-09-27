@@ -1,0 +1,9 @@
+C:\Projects\dotnet-templates\working\bin\Debug\netcoreapp3.1\templatepack.deps.json
+C:\Projects\dotnet-templates\working\bin\Debug\netcoreapp3.1\templatepack.dll
+C:\Projects\dotnet-templates\working\bin\Debug\netcoreapp3.1\templatepack.pdb
+C:\Projects\dotnet-templates\working\obj\Debug\netcoreapp3.1\templatepack.csprojAssemblyReference.cache
+C:\Projects\dotnet-templates\working\obj\Debug\netcoreapp3.1\templatepack.AssemblyInfoInputs.cache
+C:\Projects\dotnet-templates\working\obj\Debug\netcoreapp3.1\templatepack.AssemblyInfo.cs
+C:\Projects\dotnet-templates\working\obj\Debug\netcoreapp3.1\templatepack.csproj.CoreCompileInputs.cache
+C:\Projects\dotnet-templates\working\obj\Debug\netcoreapp3.1\templatepack.dll
+C:\Projects\dotnet-templates\working\obj\Debug\netcoreapp3.1\templatepack.pdb
